@@ -3,7 +3,7 @@
 Code accompanying:
 
 **Coordinated intron retention on single RNA molecules marks fitness-critical genes**  
-W. Ritchie, *Nature Structural & Molecular Biology* (submitted)
+W. Ritchie, *Nature Communications* (submitted)
 
 ## Overview
 
